@@ -1,4 +1,4 @@
-# 跑马灯和翻倍机
+# 跑马灯和老虎机
 ![image](https://github.com/jaycaoln/marquee/blob/master/src/assets/%E5%90%88.gif)
 ### 横向跑马灯
 兼容每一条广播宽度不同的情况，infinity + keyframes
